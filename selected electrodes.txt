@@ -1,0 +1,5 @@
+Frontal		: F3, F4
+Central 	: C3, C4
+Parietal	: P7, P8
+Ocipital	: O1, O2
+
