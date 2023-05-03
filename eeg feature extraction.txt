@@ -1,0 +1,42 @@
+1.Time-domain features: These features include measures of amplitude, duration, and frequency of the EEG signal over time. 
+  Examples of time-domain features include mean amplitude, peak amplitude, zero-crossing rate, and waveform length.
+
+  ex: ->Mean amplitude: The average amplitude of the EEG signal over a certain time period.
+	->Zero-crossing rate: The number of times the EEG signal crosses the zero line per second.
+	->Waveform length: The sum of the absolute differences between adjacent samples of the EEG signal.
+
+
+2.Frequency-domain features: These features are derived by analyzing the power spectrum of the EEG signal and identifying patterns in the frequency domain. 
+  Examples of frequency-domain features include power spectral density, frequency band power ratios, and peak frequency.
+
+  ex: ->Power spectral density: The distribution of power over different frequencies in the EEG signal, obtained by computing the Fourier transform of the signal.
+      ->Peak frequency: The frequency at which the EEG signal has the highest power.
+      ->Frequency band power ratios: The ratio of power in different frequency bands, such as alpha, beta, delta, and theta.
+
+
+3.Statistical features: These features are derived from statistical properties of the EEG signal, such as mean, variance, skewness, and kurtosis.
+
+  ex: ->Mean: The average value of the EEG signal over a certain time period.
+	->Variance: The degree of variability of the EEG signal over time.
+	->Skewness: A measure of the asymmetry of the distribution of the EEG signal.
+
+
+4.Wavelet transform features: These features are derived by applying wavelet transforms to the EEG signal and identifying patterns in the resulting wavelet coefficients.
+
+  ex: ->Wavelet coefficients: The coefficients obtained by applying a wavelet transform to the EEG signal, which can capture both time and frequency information.
+	->Wavelet entropy: A measure of the complexity of the EEG signal, based on the distribution of the wavelet coefficients.
+
+
+5.Coherence and connectivity features: These features involve analyzing the correlation between different EEG channels to extract features related to connectivity 
+  and functional connectivity between different brain regions.
+
+  ex: ->Coherence: A measure of the correlation between two EEG channels at different frequencies, indicating the degree of synchronization between different brain regions.
+	->Functional connectivity: A measure of the strength and pattern of communication between different brain regions, based on the correlation between their EEG signals.
+
+
+6.Event-related potential (ERP) features: These features are derived from the analysis of EEG signals that are time-locked to specific events or stimuli. 
+  ERP features can be used to extract information about cognitive processes such as attention, memory, and decision-making.
+
+  ex: ->Amplitude: The magnitude of the ERP component, such as the P300 or N400.
+	->Latency: The time between the presentation of a stimulus and the onset of the ERP component.
+	->Topography: The spatial distribution of the ERP component across different EEG channels, indicating the brain regions involved in processing the stimulus.
