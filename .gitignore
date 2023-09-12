@@ -6,3 +6,8 @@ outputs-v1
 erp files
 processed-data-versions
 nohup.out
+codes-v2/filtered_data.npy
+codes-v2/labeled_feature_v2.npy
+codes-v2/labels.npy
+codes-v2/oneb_epochs.pkl
+codes-v2/rest_epochs.pkl
