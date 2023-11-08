@@ -1,0 +1,12 @@
+mne
+pickle5
+numpy
+pandas
+spkit
+matplotlib
+plotly
+nbformat
+glob2
+scipy
+https://github.com/wmvanvliet/mne-faster/archive/refs/heads/main.zip
+scikit-learn
