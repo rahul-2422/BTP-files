@@ -15,3 +15,4 @@ codes-v2/ranked_channels_one_zero.pkl
 *.pkl
 *.npy
 final-dataset
+test-subjects
