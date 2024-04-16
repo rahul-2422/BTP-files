@@ -1,0 +1,10 @@
+Frontal	: F3, F4
+Central 	: C3, C4
+Parietal	: P3, P4
+Ocipital	: O1, O2
+
+The electrode numbers are 3 8 13 15 17 18 24 29
+				  3 8 14 16 18 19 25 30
+
+For the presentaion select the P3 electrode for sub 4 and 5 
+as they are showing reasonable response and difference for zero, one and two-back tasks.
