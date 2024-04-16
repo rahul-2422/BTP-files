@@ -3,7 +3,6 @@ Dataset zip files
 eeg-dataset-subset
 data-files
 outputs-v1
-erp files
 processed-data-versions
 nohup.out
 codes-v2/filtered_data.npy
@@ -16,3 +15,4 @@ codes-v2/ranked_channels_one_zero.pkl
 *.npy
 final-dataset
 test-subjects
+.vscode
